@@ -1,0 +1,26 @@
+{
+    "name": "tae5609-log",
+    "version": "1.0.0",
+    "description": "Lightweight date with time logger for Node.js.",
+    "main": "src/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Tae5609/tae5609-log.git"
+    },
+    "keywords": [
+        "npm",
+        "tae5609-log",
+        "console-logger"
+    ],
+    "dependencies": {
+        "chalk": "^4.1.1"
+    },
+    "author": "Tae5609",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tae5609/tae5609-log/issues"
+    },
+    "homepage": "https://github.com/Tae5609/tae5609-log/blob/master/README.md",
+    "devDependencies": {}
+}
