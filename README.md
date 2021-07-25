@@ -26,4 +26,4 @@ setNormalColor(hex_color) : Set normal log color
 
 setErrorColor(hex_color) : Set error log color
 
-setWarnColor() : Set warn log color
+setWarnColor(hex_color) : Set warn log color
