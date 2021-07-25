@@ -10,7 +10,7 @@ Dependencies:
 `npm i tae5609-log`
 
 ## Example
-```
+```js
 const tae5609log = require("tae5609-log");
 tae5609log.setNormalColor("#78c7ff");
 tae5609log.setErrorColor("#ff7878");
