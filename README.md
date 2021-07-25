@@ -12,9 +12,9 @@ Dependencies:
 ## Example
 ```
 const tae5609log = require("tae5609-log");
-tae5606log.setNormalColor("#78c7ff");
-tae5606log.setErrorColor("#ff7878");
-tae5606log.setWarnColor("#fffb78");
+tae5609log.setNormalColor("#78c7ff");
+tae5609log.setErrorColor("#ff7878");
+tae5609log.setWarnColor("#fffb78");
 
 console.log(tae5609log.normal('<msg to log>'));
 console.log(tae5609log.error('<error / issue>'));
